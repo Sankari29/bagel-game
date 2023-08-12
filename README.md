@@ -1,4 +1,4 @@
-# guess the number
+# Guess the number
 guessing a number using GUI
 
 
