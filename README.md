@@ -1,5 +1,5 @@
-# bagel-game
-guessing a number
+# guess the number
+guessing a number using GUI
 
 
 In this bagel game you have to guess the number where the computer generates a random number between 1 to 20 (given limit) and you need to guess that number in minimum tries.
